@@ -1,8 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1,IT: Rai 1 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/977.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/978.ts
+
+
 #EXTINF:-1,IT: Rai 3 HD
 http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/979.ts
 #EXTINF:-1,IT: Rai 4
